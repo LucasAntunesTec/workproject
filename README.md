@@ -1,30 +1,16 @@
-# teste-unitario-jest
-teste-unitario-jest
+SKILLS:
+
+-JavaScript
+-Jest
+-CI/CD
+-GIT
+-Unit Tests
 
 
-//Packages to install
-//=======================================================
+EXPERIENCES:
 
-npm init
-
-npm install --save-dev jest 
-
-npm install --save-dev jest-html-reporter 
-
-//=======================================================
-
-Package.json setup to exec:
-> "scripts": {  "test": “jest” }, // for Jest executions
-
-//=======================================================
-
-Package.json setup to report:
-> "jest": {
-   "reporters": [
-     "default",
-     [   "./node_modules/jest-html-reporter",
-       {   "pageTitle": "Test Report“ }
-                          ]
-   ] }
-   
-//======================================================
+-Manual Testing · Test Automation
+-Software Quality Assurance · Test Planning
+-Agile Methodologies · DevOps
+-Data Analytics · Database
+-OOP · Frameworks
