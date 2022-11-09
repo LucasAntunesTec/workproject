@@ -7,6 +7,7 @@ SKILLS:
 -Unit Tests
 
 
+
 APPLICATIONS:
 
 -Manual Testing · Test Automation
