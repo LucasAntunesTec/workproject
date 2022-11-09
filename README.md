@@ -7,7 +7,7 @@ SKILLS:
 -Unit Tests
 
 
-EXPERIENCES:
+APPLICATIONS:
 
 -Manual Testing · Test Automation
 -Software Quality Assurance · Test Planning
